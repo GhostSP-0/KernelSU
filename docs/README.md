@@ -5,7 +5,7 @@
 <img src="https://kernelsu.org/logo.png" style="width: 96px;" alt="logo">
 
 # KERNELSU DRIVER
-curl -LSs "https://raw.githubusercontent.com/tiann/KernelSU/main/kernel/setup.sh" | bash -s main
+curl -LSs "https://raw.githubusercontent.com/GhostSP-0/KernelSU/main/kernel/setup.sh" | bash -s main
 
 A Kernel-based root solution for Android devices.
 
