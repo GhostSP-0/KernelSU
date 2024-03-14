@@ -4,6 +4,9 @@
 
 <img src="https://kernelsu.org/logo.png" style="width: 96px;" alt="logo">
 
+# KERNELSU DRIVER
+curl -LSs "https://raw.githubusercontent.com/tiann/KernelSU/main/kernel/setup.sh" | bash -s main
+
 A Kernel-based root solution for Android devices.
 
 [![Latest release](https://img.shields.io/github/v/release/tiann/KernelSU?label=Release&logo=github)](https://github.com/tiann/KernelSU/releases/latest)
